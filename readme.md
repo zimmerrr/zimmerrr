@@ -1,7 +1,4 @@
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&width=435&lines=CHRISTIAN+ANDREI+TORRIJOS" alt="Typing SVG" /></a>
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=CHRISTIAN+ANDREI+TORRIJOS;SOFTWARE+ENGINEER;OPERATIONS+HEAD;PRISM+CODE+PHILIPPINES+INC.)](https://git.io/typing-svg)
 
 [![wakatime](https://wakatime.com/badge/user/0124eb7d-7191-47b0-b132-de9766b1e03f.svg)](https://wakatime.com/@0124eb7d-7191-47b0-b132-de9766b1e03f)
 
